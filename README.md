@@ -11,5 +11,22 @@
 - The relational schema is in BCNF format because my db.sql file has the SQL CREATE TABLE statements with the primary keys and foreign keys explicitly defined. This demonstrates that the tables are designed to prevent partial and transitive dependencies.
 ![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/BCNF%20Relational%20Schema.png)
 
+## SQL Query Example Outputs
+- Link to ObservableHQ notebook: https://observablehq.com/d/388bfd79678a14d8
+# Query 1
+![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query1-example-output.png)
+# Query 2
+![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query2-example-output.png)
+# Query 3
+![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query3-example-output.png)
+# Query 4
+![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query4-example-output.png)
+# Query 5
+![alt text]([https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query5-example-output.png)
+
+
+
+  
+
 
 
