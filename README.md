@@ -1,3 +1,5 @@
+- Below are images of the diagrams, explanation of why the relational schema is BCNF, and image examples of my SQL queries with a link to the ObservableHQ file. 
+
 ## UML Class Diagram
 ![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/UML%20Class%20Diagram.png)
 
@@ -8,4 +10,6 @@
 ## BCNF Relational Schema
 - The relational schema is in BCNF format because my db.sql file has the SQL CREATE TABLE statements with the primary keys and foreign keys explicitly defined. This demonstrates that the tables are designed to prevent partial and transitive dependencies.
 ![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/BCNF%20Relational%20Schema.png)
+
+
 
