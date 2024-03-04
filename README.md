@@ -22,7 +22,7 @@
 # Query 4
 ![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query4-example-output.png)
 # Query 5
-![alt text]([https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query5-example-output.png)
+![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/Query5-example-output.png)
 
 
 
