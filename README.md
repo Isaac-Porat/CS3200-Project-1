@@ -6,6 +6,6 @@
 ![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/ERD%20Diagram.png)
 
 ## BCNF Relational Schema
-- The relational schema is in BCNF format because my database.txt file has the SQL CREATE TABLE statements with the primary keys and foreign keys explicitly defined. This demonstrates that the tables are designed to prevent partial and transitive dependencies.
+- The relational schema is in BCNF format because my db.sql file has the SQL CREATE TABLE statements with the primary keys and foreign keys explicitly defined. This demonstrates that the tables are designed to prevent partial and transitive dependencies.
 ![alt text](https://github.com/Isaac-Porat/CS3200-Project-1/blob/main/BCNF%20Relational%20Schema.png)
 
